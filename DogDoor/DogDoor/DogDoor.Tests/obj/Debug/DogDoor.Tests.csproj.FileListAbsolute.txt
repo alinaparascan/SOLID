@@ -1,0 +1,16 @@
+D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\obj\Debug\DogDoor.Tests.csprojResolveAssemblyReference.cache
+D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\obj\Debug\DogDoor.Tests.csproj.CoreCompileInputs.cache
+D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\DogDoor.Tests.dll
+D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\DogDoor.Tests.pdb
+D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\DogDoor.exe
+D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\DogDoor.pdb
+D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\DogDoor.exe.config
+D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\obj\Debug\DogDoor.Tests.dll
+D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\obj\Debug\DogDoor.Tests.pdb
