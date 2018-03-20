@@ -14,3 +14,17 @@ D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\Microsoft.Visual
 D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\obj\Debug\DogDoor.Tests.dll
 D:\Programe\VS_Projects\DogDoor\DogDoor\DogDoor.Tests\obj\Debug\DogDoor.Tests.pdb
+C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\DogDoor.Tests.dll
+C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\DogDoor.Tests.pdb
+C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\DogDoor.exe
+C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\DogDoor.pdb
+C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor.Tests\obj\Debug\DogDoor.Tests.csprojResolveAssemblyReference.cache
+C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor.Tests\obj\Debug\DogDoor.Tests.dll
+C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor.Tests\obj\Debug\DogDoor.Tests.pdb
