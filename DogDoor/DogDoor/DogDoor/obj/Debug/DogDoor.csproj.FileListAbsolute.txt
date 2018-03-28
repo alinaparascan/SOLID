@@ -13,7 +13,6 @@ C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor\obj\Debug\DogDoor.exe
 C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor\obj\Debug\DogDoor.pdb
 C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor\bin\Debug\DogDoor.exe
 C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor\bin\Debug\DogDoor.pdb
-C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor\obj\Debug\DogDoor.csprojResolveAssemblyReference.cache
-C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor\obj\Debug\DogDoor.fDoggyBusiness.resources
 C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor\obj\Debug\DogDoor.Properties.Resources.resources
 C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor\obj\Debug\DogDoor.csproj.GenerateResource.Cache
+C:\Users\aparascan\Documents\SOLID\DogDoor\DogDoor\DogDoor\obj\Debug\DogDoor.FormDoggyBusiness.resources

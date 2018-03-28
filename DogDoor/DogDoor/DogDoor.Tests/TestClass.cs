@@ -37,5 +37,36 @@ namespace DogDoor.Tests
             Remote rem = new Remote(door);
             Assert.IsFalse(rem.PressButton());
         }
+
+        [TestMethod]
+        public void TheDogDoorIsClosedOnCodeEntered()
+        {
+            DogDoor door = new DogDoor();
+            //var doorClosed = door.Close();
+
+            // Assert.IsTrue(doorClosed);
+        }
+
+        [TestMethod]
+        public void TheWindowsAreClosedOnCodeEntered()
+        {
+            Window window = new Window();
+            Code code = new Code();
+            var codeEntered = code.Enter();
+            var windowClosed = window.Close();
+
+            Assert.IsTrue(codeEntered);
+            Assert.AreEqual(codeEntered, windowClosed);
+        }
+
+        [TestMethod]
+        public void TheCodeEnteredIsCorrectAndTheWindowIsClosed()
+        {
+            Window window = new Window();
+            Code code = new Code();
+            var codeEntered = code.Enter();
+
+            Assert.IsTrue(window.IsClosed);
+        }
     }
 }
